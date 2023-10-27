@@ -1,1 +1,1 @@
-# This is a [;ace I will post my completed projects as I learn more about coding
+# This is a place I will post my completed projects as I learn more about coding
